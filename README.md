@@ -1,4 +1,4 @@
-🎄 Advent_of_code_Rust: A Festive Coding Journey in the Rust Language 🎄
+🎄 <a href="https://adventofcode.com">Advent of Code</a>: A Festive Coding Journey in the Rust Language 🎄
 
 Welcome to the "Advent_of_code_Rust" repository! Embark on a jolly coding adventure through the Advent of Code challenges, meticulously solved using the powerful and memory-safe Rust programming language.
 
