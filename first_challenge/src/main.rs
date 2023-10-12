@@ -29,6 +29,13 @@ fn main() {
         Some(max) => println!("The maximum number is {}", max),
         None => println!("The vector is empty"),
     }
+    {
+        results.sort();
+        results.reverse();
+        let first_three: Vec<_> =results.iter().take(3).collect();
+        let total: u32 = first_three.into_iter().sum();
+        println!("{}", total);
+    }
 }
 
 
